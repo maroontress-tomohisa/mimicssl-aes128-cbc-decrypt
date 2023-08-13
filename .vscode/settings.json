@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "array": "cpp"
+    },
+    "cSpell.words": [
+        "aesdec",
+        "aesdeclast",
+        "aesimc",
+        "lddqu",
+        "storeu"
+    ]
+}
